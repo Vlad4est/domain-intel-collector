@@ -14,7 +14,7 @@ This tool gathers:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/osint-domain-scanner.git
+git clone https://github.com/Vlad4est/osint-domain-scanner.git
 cd osint-domain-scanner
 ```
 
